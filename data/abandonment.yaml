@@ -3,4 +3,4 @@ val: ../../datasets/abandonment/valid/images
 test: ../../datasets/abandonment/test/images
 
 nc: 2
-names: ['face', 'mask']
+names: ['Object', 'Person']

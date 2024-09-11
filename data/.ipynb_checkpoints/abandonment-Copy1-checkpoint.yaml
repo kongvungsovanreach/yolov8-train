@@ -1,0 +1,6 @@
+train: ../../datasets/fall/train/images
+val: ../../datasets/fall/valid/images
+test: ../../datasets/fall/test/images
+
+nc: 2
+names: ['Fall', 'Non-Fall']

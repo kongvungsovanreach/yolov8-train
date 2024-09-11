@@ -1,0 +1,6 @@
+train: ../../datasets/abandonment/train/images
+val: ../../datasets/abandonment/valid/images
+test: ../../datasets/abandonment/test/images
+
+nc: 2
+names: ['face', 'mask']
